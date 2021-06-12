@@ -29,6 +29,7 @@
 
 
 <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api?username=anthony-wang&show_icons=true&theme=dark&locale=en" alt="Anthony Wang's GitHub stars" /></p>
+
 <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-wang&show_icons=true&locale=en&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Most-used programming languages by Anthony Wang" /></p>
 
 
